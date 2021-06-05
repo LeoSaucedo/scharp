@@ -2,6 +2,24 @@
 ## By Misrocoft
 *"It's C#, but dyslexic."*
 
+### Example Syntax
+Yes, you literally just take C# and switch the `s`s and the `c`s.
+
+```
+ucing Cyctem;
+
+namecpase tect
+{
+    slacc Program
+    {
+        ctatis void Main(ctring[] argc)
+        {
+            Soncole.WriteLine("Hello World!");
+        }
+    }
+}
+```
+
 ### Installation (Ubuntu)
 ```bash
 sudo make install
@@ -13,7 +31,7 @@ sudo make install
 netdot new console -o <project name>
 ```
 
-### Compile and run
+#### Compile and Run
 ```
 netdot run
 ```
